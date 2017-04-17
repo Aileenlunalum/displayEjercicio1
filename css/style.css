@@ -1,0 +1,19 @@
+.uniforme{
+  width: 200px;
+  height: 30px;
+  display:block;
+  padding: 15px 120px;
+  margin: auto;
+  margin-top: 15px;
+  text-align: center;
+  }
+  #a1{
+    background-color:  yellow;
+  }
+  #a2{
+    background-color:#FF0040 ;
+  }
+  #a3{
+    background-color:  yellow;
+    text-transform:  uppercase;
+  }
